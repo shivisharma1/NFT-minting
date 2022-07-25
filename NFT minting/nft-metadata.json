@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Maltipoo"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "A heart for the bleeding world",
+    "image": "ipfs://QmWqKJpGk8wKf465QZu5Mg9ChBoCqtSCe8imJg2gY1jBur",
+    "name": "Ramses"
+  }
+  
